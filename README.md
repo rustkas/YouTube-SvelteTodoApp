@@ -1,8 +1,13 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+# Svelte - Crash Course - Learn Svelte in Under 25 Minutes!
 
----
+[![Svelte Crash Course video](https://img.youtube.com/vi/OCuRyiKruqA/0.jpg)](https://youtu.be/OCuRyiKruqA "Svelte Crash Course")
 
-# svelte app
+
+A crash course for learning Svelte. This tutorial will get you up and running, starting from scratch. It will teach you the basics, and show you how to learn more on your own. We will be building a Todo application as we go.
+
+
+
+## svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
